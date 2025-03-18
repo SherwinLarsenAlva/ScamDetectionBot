@@ -36,8 +36,8 @@ python fine_tune_model.py
 
 ## Models
 The pre-trained models are available on Hugging Face:
-ScamDetector (https://huggingface.co/SparkyPilot/ScamDetector/tree/main)
+- [ScamDetector](https://huggingface.co/SparkyPilot/ScamDetector/tree/main)
 
 ## Dataset
 The dataset used for training and evaluation is available on Hugging Face:
-Scam Detection Data (https://huggingface.co/datasets/SparkyPilot/scam-detection-data/tree/main)
+- [Scam Detection Data](https://huggingface.co/datasets/SparkyPilot/scam-detection-data/tree/main)
