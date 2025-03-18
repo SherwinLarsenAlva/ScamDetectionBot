@@ -1,0 +1,24 @@
+# Ignore environment files
+.env
+
+# Ignore the Models directory
+Models/
+
+# Ignore the Data directory
+Data/
+
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+venv/
+env/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
