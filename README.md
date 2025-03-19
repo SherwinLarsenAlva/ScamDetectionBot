@@ -34,6 +34,14 @@ For fine-tuning the model on your specific dataset, use:
 python fine_tune_model.py
 ```
 
+Running the Benchmark
+To evaluate the model on the benchmark dataset, use the Benchmark_model.py script from the repository:
+
+```bash
+python Scripts/Benchmark_model.py
+```
+This script will load the benchmark dataset, run predictions using the pre-trained model, and print evaluation metrics.
+
 ## Models
 The pre-trained models are available on Hugging Face:
 - [ScamDetector](https://huggingface.co/SparkyPilot/ScamDetector/tree/main)
